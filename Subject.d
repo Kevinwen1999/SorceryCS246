@@ -1,1 +1,0 @@
-Subject.o: Subject.cpp
